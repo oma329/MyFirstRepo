@@ -1,0 +1,4 @@
+# Brief Introduction About Myself
+
+Hello! My name is ELMAATLA OMAIMA. I'm currently learning Git and GitHub and interested in BUSINESS .
+This is my first project where I'm exploring version control systems and collaboration.
